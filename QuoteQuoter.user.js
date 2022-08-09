@@ -10,8 +10,8 @@
 // @grant       GM.setValue
 // @grant       GM.getValue
 // @grant       GM.registerMenuCommand
-// @downloadURL www.something
-// @updateURL   www.something
+// @downloadURL https://github.com/Mikowmer/SB-FullQuoter/raw/main/QuoteQuoter.user.js
+// @updateURL   https://github.com/Mikowmer/SB-FullQuoter/raw/main/QuoteQuoter.user.js
 // ==/UserScript==
 
 function bbEncode (post_content) {
