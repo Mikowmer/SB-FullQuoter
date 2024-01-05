@@ -6,7 +6,6 @@
 // @version     0.2
 // @icon        https://forums.spacebattles.com/data/svg/2/1/1704166523/2022_favicon_192x192.png
 // @author      Mikowmer
-// @grant       GM.registerMenuCommand
 // @downloadURL https://github.com/Mikowmer/SB-FullQuoter/raw/main/ReportLikeGapper.user.js
 // @updateURL   https://github.com/Mikowmer/SB-FullQuoter/raw/main/ReportLikeGapper.user.js
 // ==/UserScript==
